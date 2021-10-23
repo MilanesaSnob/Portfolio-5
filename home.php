@@ -47,7 +47,7 @@
     </div>
     <div>
        <div class="progress">
-        <div class="progress-bar progress-bar-striped progress-bar-animated verde" role="progressbar" style="width: 80%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">CSS3-SASS-LESS</div>
+        <div class="progress-bar progress-bar-striped progress-bar-animated verde" role="progressbar" style="width: 90%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">CSS3-SASS-LESS</div>
     </div>
 </div>
 
@@ -59,12 +59,20 @@
 
 <div>
    <div class="progress">
-    <div class="progress-bar progress-bar-striped progress-bar-animated agua" role="progressbar" style="width: 35%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">Angular 7</div>
+    <div class="progress-bar progress-bar-striped progress-bar-animated agua" role="progressbar" style="width: 35%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">Angular 5+</div>
+</div>
+<div>
+   <div class="progress">
+    <div class="progress-bar progress-bar-striped progress-bar-animated agua" role="progressbar" style="width: 26%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">Xamarin (C#)</div>
+</div>
+<div>
+   <div class="progress">
+    <div class="progress-bar progress-bar-striped progress-bar-animated rojo" role="progressbar" style="width: 23%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">Xamarin (C#)</div>
 </div>
 </div>
 <div>
     <div class="progress">
-        <div class="progress-bar progress-bar-striped progress-bar-animated rojo" role="progressbar" style="width: 25%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">Php</div>
+        <div class="progress-bar progress-bar-striped progress-bar-animated rojo" role="progressbar" style="width: 20%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">Php</div>
     </div>
 </div>
 <div>

@@ -42,5 +42,22 @@
         $("[data-toggle='tooltip']").tooltip();
     });
 </script>
+
+<!--  Statcounter -->
+<script type="text/javascript">
+var sc_project=11438654; 
+var sc_invisible=1; 
+var sc_security="76a01923"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics
+Made Easy - Statcounter" href="https://statcounter.com/"
+target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/11438654/0/76a01923/1/"
+alt="Web Analytics Made Easy - Statcounter"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+<!-- End of Statcounter Code -->
 </body>
 </html>
