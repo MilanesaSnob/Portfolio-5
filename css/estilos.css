@@ -124,6 +124,7 @@ header .navbar  li.nav-item:hover:nth-child(3) a i:before {content: "ACCESS";fon
 #bio .bioSkills ul {margin-bottom: 0.2rem;}
 #bio .bioSkills .progress {background-color: #0c1d30; height: 30px;border-radius: 0;}
 
+#bio .bioSkills .progress .progress-bar {padding-top: 0px;}
 #bio .bioSkills .progress .progress-bar-striped {height: 30px;}
 #bio .bioSkills .progress .progress-bar {font-weight: 700; padding-left: 10px; text-align: left; color:#0c1d30;font-size: 1rem;}
 #bio .bioSkills .progress .progress-bar.verde {background-color:rgba(140, 198, 63, 1);}
@@ -180,7 +181,8 @@ select {color: #000!important;}
 
 
 #hobbit i {margin-right: 10px;}
-#hobbit audio .controls {border-radius: 0 !important; -webkit-border-radius: 0 !important;}
+#hobbit audio {display:block; height:30px; width: 100%; margin-top: -15px;}
+
 
 
 

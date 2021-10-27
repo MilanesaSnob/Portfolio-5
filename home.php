@@ -9,7 +9,7 @@
                        <img class="card-img-top" src="images/perfil02.jpg" alt="Foto de Martin">
                        <div class="card-body px-0 text-center">
                            <h2 class="card-title verde">Martin Mele</h2>
-                           <p class="card-text my-0">Graphic Designer - UX-UI<br>FrontEnd developer</p>
+                           <p class="card-text my-0">Graphic Designer<br>UX/UI Dev</p>
                        </div>
                        <a class="btn btn-outline btn-lg mb-5" href="files/cv-martin-mele.pdf" target="_blank" role="button">CV DOWNLOAD</a>
                        <!--

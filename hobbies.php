@@ -8,35 +8,35 @@
                         <h4 class="agua font-weight-bold">Playing with Kawai K4<br> & Korg TR</h4>
 
                         <p class="mt-5"><i class="fa fa-bolt agua"></i>Desmaterializado <small>[Lokesea]</small></p>
-                        <audio controls style="display:block; height:30px; width: 100%; margin-top: -15px;">
+                        <audio controls>
                             <source src="audio/desmaterializado.ogg" type="audio/ogg">
                             <source src="audio/desmaterializado.mp3" type="audio/mpeg">
                             Tu navegador apesta y no soporta audio tag.
                         </audio>
 
                         <p class="mt-4"><i class="fa fa-bolt agua"></i>Dx2 Palestina <small>[solo project]</small></p>
-                        <audio controls style="display:block; height:30px; width: 100%; margin-top: -15px;">
+                        <audio controls>
                             <source src="audio/dx2-palestina.ogg" type="audio/ogg">
                             <source src="audio/dx2-palestina.mp3" type="audio/mpeg">
                             Tu navegador apesta y no soporta audio tag.
                         </audio>
 
                         <p class="mt-4"><i class="fa fa-bolt agua"></i>Zamba para olvidar <small>[con Ariel Robles]</small></p>
-                        <audio controls style="display:block; height:30px; width: 100%; margin-top: -15px;">
+                        <audio controls>
                             <source src="audio/zamba.ogg" type="audio/ogg">
                             <source src="audio/zamba.mp3" type="audio/mpeg">
                             Tu navegador apesta y no soporta audio tag.
                         </audio>
 
                         <p class="mt-4"><i class="fa fa-bolt agua"></i>Elevate <small>[Lokesea]</small></p>
-                        <audio controls style="display:block; height:30px; width: 100%; margin-top: -15px;">
+                        <audio controls>
                             <source src="audio/elevate.ogg" type="audio/ogg">
                             <source src="audio/elevate.mp3" type="audio/mpeg">
                             Tu navegador apesta y no soporta audio tag.
                         </audio>
 
                         <p class="mt-4"><i class="fa fa-bolt agua"></i>Moon Shrine <small>[solo project]</small></p>
-                        <audio controls style="display:block; height:30px; width: 100%; margin-top: -15px;">
+                        <audio controls>
                             <source src="audio/moon-shrine.ogg" type="audio/ogg">
                             <source src="audio/moon-shrine.mp3" type="audio/mpeg">
                             Tu navegador apesta y no soporta audio tag.
