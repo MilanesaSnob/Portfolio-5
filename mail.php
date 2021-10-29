@@ -1,12 +1,13 @@
 <?php
-      header ("Location: http://martinmele.space/index.php"); 
+      header ("Location: http://martinmele.com.ar/index.php");
+
 
       if ($_POST["submit"]) {
         $name = $_POST['name'];
         $email = $_POST['email'];
         $message = $_POST['message'];
         $from = 'Formulario de contacto'; 
-        $to = 'contacto@martinmele.com.ar'; 
+        $to = 'mmmele@gmail.com'; 
         $subject = 'Mensaje desde el sitio web ';
         $fecha = date('d/m/Y', time());
 

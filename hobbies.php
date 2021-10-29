@@ -49,23 +49,23 @@
                         <h2 class="b-verde">BOOKS</h2>
                         <h4 class="verde font-weight-bold">To be<br> or not To be</h4>
 
-                        <a class="mt-5" href="files/meditaciones.epub" role="button"><i class="fa fa-book verde"></i>Meditaciones - <small><span class="font-italic">Marco Aurelio.</span></small></a>
+                        <a class="mt-5" href="files/meditaciones.zip" role="button"><i class="fa fa-book verde"></i>Meditaciones - <small><span class="font-italic">Marco Aurelio.</span></small></a>
 
-                        <a class="mt-1" href="files/antigona.epub"  role="button"><i class="fa fa-book verde"></i>Antígona - <small><span class="font-italic">Sófocles.</span></small></a>
+                        <a class="mt-1" href="files/antigona.zip"  role="button"><i class="fa fa-book verde"></i>Antígona - <small><span class="font-italic">Sófocles.</span></small></a>
 
-                        <a class="mt-1" href="files/walden.epub" role="button"><i class="fa fa-book verde"></i>Walden - <small><span class="font-italic">H. D. Thoreau.</span></small></a>
+                        <a class="mt-1" href="files/walden.zip" role="button"><i class="fa fa-book verde"></i>Walden - <small><span class="font-italic">H. D. Thoreau.</span></small></a>
 
-                        <a class="mt-1" href="files/el-quijote.epub" role="button"><i class="fa fa-book verde"></i>El Quijote - <small><span class="font-italic">Miguel Cervantes.</span></small></a>
+                        <a class="mt-1" href="files/el-quijote.zip" role="button"><i class="fa fa-book verde"></i>El Quijote - <small><span class="font-italic">Miguel Cervantes.</span></small></a>
 
-                        <a class="mt-1" href="files/toda-la-carne-es-hierba.epub" role="button"><i class="fa fa-book verde"></i>Toda la carne es hierba - <small><span class="font-italic">Clifford D. Simak.</span></small></a>
+                        <a class="mt-1" href="files/toda-la-carne-es-hierba.zip" role="button"><i class="fa fa-book verde"></i>Toda la carne es hierba - <small><span class="font-italic">Clifford D. Simak.</span></small></a>
 
-                        <a class="mt-1" href="files/musashi.epub" role="button"><i class="fa fa-book verde"></i>Musashi - <small><span class="font-italic">Eiji Yoshikawa.</span></small></a>
+                        <a class="mt-1" href="files/musashi.zip" role="button"><i class="fa fa-book verde"></i>Musashi - <small><span class="font-italic">Eiji Yoshikawa.</span></small></a>
 
-                        <a class="mt-1" href="files/dune.epub" role="button"><i class="fa fa-book verde"></i>Dune - <small><span class="font-italic">Frank Herbert.</span></small></a>
+                        <a class="mt-1" href="files/dune.zip" role="button"><i class="fa fa-book verde"></i>Dune - <small><span class="font-italic">Frank Herbert.</span></small></a>
 
-                        <a class="mt-1" href="files/misterio-cripta-embrujada.epub" role="button"><i class="fa fa-book verde"></i>El misterio de la cripta embrujada - <small><span class="font-italic">E. Mendoza.</span></small></a>
+                        <a class="mt-1" href="files/misterio-cripta-embrujada.zip" role="button"><i class="fa fa-book verde"></i>El misterio de la cripta embrujada - <small><span class="font-italic">E. Mendoza.</span></small></a>
 
-                        <a class="mt-1" href="files/extraccion-piedra-locura.epub" role="button"><i class="fa fa-book verde"></i>Extraccion de la piedra de la locura - <small><span class="font-italic">Alejandra Pizarnik.</span></small></a>
+                        <a class="mt-1" href="files/extraccion-piedra-locura.zip" role="button"><i class="fa fa-book verde"></i>Extraccion de la piedra de la locura - <small><span class="font-italic">Alejandra Pizarnik.</span></small></a>
 
                     </div>
                 </div>
