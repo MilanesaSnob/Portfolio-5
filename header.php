@@ -9,7 +9,7 @@
 	<meta name="keywords" content="Martin Mele, Graphic Designer, UI, UX, HTML, CSS, XML, JavaScript, bootstrap, responsive, design">
 	<meta name="author" content="Martin Mele">
 	<meta property="og:title" content="Martin Mele Portfolio">
-    <meta property="og:type" content="website">
+    <meta property="og:type" content="website portfolio">
     <meta property="og:description" content="Martin Mele Personal website">
     <meta property="og:image" content="http://martinmele.space/images/opengraph.png">
     <meta property="og:url" content="http://martinmele.space">
