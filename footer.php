@@ -1,25 +1,33 @@
 <!--FOOTER -->
 <footer class="hidden-print">
     <div class="container">
-       <div class="row">
-          <div class="col-lg-6 pt-lg-5 pt-5 pb-lg-3 pb-3 social">
-             <ul class="list-inline text-lg-left text-center">
-                <li class="list-inline-item">
-                    <a class="verde" href="https://www.behance.net/martinmele" target="_blank" data-toggle="tooltip" data-placement="top" title="check out my portfolio" role="button"><i class="fab fa-behance fa-2x" aria-hidden="true"></i></a>
-                </li>
-                <li class="list-inline-item">
-                    <a class="rojo" href="https://github.com/MilanesaSnob" target="_blank" data-toggle="tooltip" data-placement="top" title="Follow me at" role="button"><i class="fab fa-github fa-2x" aria-hidden="true"></i></a>
-                </li>
-                <li class="list-inline-item">
-                    <a class="agua" href="http://ar.linkedin.com/pub/martin-mele/20/444/490" target="_blank" data-toggle="tooltip" data-placement="top" title="Check out my profile" role="button"><i class="fab fa-linkedin fa-2x" aria-hidden="true"></i></a>
-                </li>
-            </ul>
+        <div class="row">
+            <div class="col-lg-6 pt-lg-5 pt-5 pb-lg-3 pb-3 social">
+                <ul class="list-inline text-lg-left text-center">
+                    <li class="list-inline-item">
+                        <a class="verde" href="https://www.behance.net/martinmele" target="_blank" data-toggle="tooltip"
+                            data-placement="top" title="check out my portfolio" role="button"><i
+                                class="fab fa-behance fa-2x" aria-hidden="true"></i></a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a class="rojo" href="https://github.com/MilanesaSnob" target="_blank" data-toggle="tooltip"
+                            data-placement="top" title="Follow me at" role="button"><i class="fab fa-github fa-2x"
+                                aria-hidden="true"></i></a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a class="agua" href="http://ar.linkedin.com/pub/martin-mele/20/444/490" target="_blank"
+                            data-toggle="tooltip" data-placement="top" title="Check out my profile" role="button"><i
+                                class="fab fa-linkedin fa-2x" aria-hidden="true"></i></a>
+                    </li>
+                </ul>
+            </div>
+
+
+            <div class="col-lg-6 pt-lg-5 pb-lg-3 pb-3 madeWith text-lg-right text-center">
+                <span class="agua">Made in</span><span class="verde">, Villa Crespo.</span>.
+            </div>
         </div>
-        <div class="col-lg-6 pt-lg-5 pb-lg-3 pb-3 madeWith text-lg-right text-center">
-          <span class="agua">Made in</span><span class="verde">, Villa Crespo.</span>.
-      </div>
-  </div>
-</div>
+    </div>
 </footer>
 <!-- END FOOTER -->
 
