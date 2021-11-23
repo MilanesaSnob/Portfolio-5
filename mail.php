@@ -7,7 +7,7 @@
         $email = $_POST['email'];
         $message = $_POST['message'];
         $from = 'Formulario de contacto'; 
-        $to = 'mmmele@gmail.com'; 
+        $to = 'info@martinmele.com.ar'; 
         $subject = 'Mensaje desde el sitio web ';
         $fecha = date('d/m/Y', time());
 
