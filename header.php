@@ -60,16 +60,16 @@
 
 		<nav class="navbar navbar-dark fixed-top bg-dark navbar-expand-md " id="mainNav" role="navigation"><!-- Agregar para que no collapse: navbar-expand-md-->
 			<div class="container ">
-				<a class="navbar-brand <?php echo $pagina == 'home' ? 'active' : ''; ?>" href="?p=home"><img src="images/logo.svg" alt="Martin Mele"></a>
+				<a class="navbar-brand <?php echo $pagina == 'home' ? 'active' : ''; ?>" href="?p=home" ><img src="images/logo.svg" alt="Martin Mele"></a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                    <span class="navbar-toggler-icon"><i class="fa-li fa fa-spinner fa-spin"></i></span>
                </button>
 
                <div class="collapse navbar-collapse justify-content-end" id="navbarCollapse">
                    <ul class="nav justify-content-end">
-                       <li class="nav-item agua <?php echo $pagina == 'portfolio' ? 'active' : ''; ?>"><a class="nav-link agua" href="?p=portfolio"><i class="fa fa-tree fa-2x" aria-hidden="true"></i></a></li>
-                       <li class="nav-item verde <?php echo $pagina == 'hobbies' ? 'active' : ''; ?>"><a class="nav-link verde" href="?p=hobbies"><i class="fa fa-rocket fa-2x" aria-hidden="true"></i></a></li>
-                       <li class="nav-item rojo <?php echo $pagina == 'access' ? 'active' : ''; ?>"><a class="nav-link rojo" href="?p=access"><i class="fa fa-umbrella fa-2x" aria-hidden="true"></i></a></li>
+                       <li class="nav-item agua <?php echo $pagina == 'portfolio' ? 'active' : ''; ?>"><a class="nav-link agua" href="?p=portfolio" title="Home"><i class="fa fa-tree fa-2x" aria-hidden="true"></i></a></li>
+                       <li class="nav-item verde <?php echo $pagina == 'hobbies' ? 'active' : ''; ?>"><a class="nav-link verde" href="?p=hobbies" title="Hobbies"><i class="fa fa-rocket fa-2x" aria-hidden="true"></i></a></li>
+                       <li class="nav-item rojo <?php echo $pagina == 'access' ? 'active' : ''; ?>"><a class="nav-link rojo" href="?p=access" title="Access"><i class="fa fa-umbrella fa-2x" aria-hidden="true"></i></a></li>
                    </ul>
                </div>
            </div>
