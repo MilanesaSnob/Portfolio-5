@@ -76,7 +76,7 @@
                         <div class="row no-gutters mt-5">
 
                             <div class="col-md-4 col-6">
-                                <a href="https://www.instagram.com/tonyhawk/?hl=es-la" target="_blank">
+                                <a href="https://www.instagram.com/tonyhawk/?hl=es-la" rel="noreferrer" target="_blank">
                                 <div class="caja">
                                     <img src="images/s-tony-hawk.jpg" alt="Tony Hawk" class="img-fluid">
                                     <div class="overlay bg-rojo">
@@ -86,7 +86,7 @@
                                 </a>
                             </div>
                             <div class="col-md-4 col-6">
-                                <a href="https://www.instagram.com/andrewreynolds/?hl=es-la" target="_blank">
+                                <a href="https://www.instagram.com/andrewreynolds/?hl=es-la" rel="noreferrer" target="_blank">
                                 <div class="caja">
                                     <img src="images/s-andrew-reynolds.jpg" alt="Andrew Reynolds" class="img-fluid">
                                     <div class="overlay bg-rojo">
@@ -96,7 +96,7 @@
                                 </a>
                             </div>
                             <div class="col-md-4 col-6">
-                                <a href="https://www.instagram.com/bam__margera/" target="_blank">
+                                <a href="https://www.instagram.com/bam__margera/" rel="noreferrer" target="_blank">
                                 <div class="caja">
                                     <img src="images/s-bam-margera.jpg" alt="Bam Marguera" class="img-fluid">
                                     <div class="overlay bg-rojo">
@@ -106,7 +106,7 @@
                                 </a>
                             </div>
                             <div class="col-md-4 col-6">
-                                <a href="https://www.instagram.com/bobburnquist/?hl=es-la" target="_blank">
+                                <a href="https://www.instagram.com/bobburnquist/?hl=es-la" rel="noreferrer" target="_blank">
                                 <div class="caja">
                                     <img src="images/s-bob-burnquist.jpg" alt="Bob Burnquist" class="img-fluid">
                                     <div class="overlay bg-rojo">
@@ -116,7 +116,7 @@
                                 </a>
                             </div>
                             <div class="col-md-4 col-6">
-                                <a href="https://www.instagram.com/buckylasek/?hl=es-la" target="_blank">
+                                <a href="https://www.instagram.com/buckylasek/?hl=es-la" rel="noreferrer" target="_blank">
                                 <div class="caja">
                                     <img src="images/s-bucky-lasek.jpg" alt="Bucky Lasek" class="img-fluid">
                                     <div class="overlay bg-rojo">
@@ -126,7 +126,7 @@
                                 </a>
                             </div>
                             <div class="col-md-4 col-6">
-                                <a href="https://www.instagram.com/chriscobracole/?hl=es-la" target="_blank">
+                                <a href="https://www.instagram.com/chriscobracole/?hl=es-la" rel="noreferrer" target="_blank">
                                 <div class="caja">
                                     <img src="images/s-chris-cole.jpg" alt="Chris Cole" class="img-fluid">
                                     <div class="overlay bg-rojo">
@@ -136,7 +136,7 @@
                                 </a>
                             </div>
                             <div class="col-md-4 col-6">
-                                <a href="https://www.instagram.com/dannyway/?hl=es-la" target="_blank">
+                                <a href="https://www.instagram.com/dannyway/?hl=es-la" rel="noreferrer" target="_blank">
                                 <div class="caja">
                                     <img src="images/s-danny-way.jpg" alt="Danny Way" class="img-fluid">
                                     <div class="overlay bg-rojo">
@@ -146,7 +146,7 @@
                                 </a>
                             </div>
                             <div class="col-md-4 col-6">
-                                <a href="https://www.instagram.com/erickoston/?hl=es" target="_blank">
+                                <a href="https://www.instagram.com/erickoston/?hl=es" rel="noreferrer" target="_blank">
                                 <div class="caja">
                                     <img src="images/s-eric-koston.jpg" alt="Eric Koston" class="img-fluid">
                                     <div class="overlay bg-rojo">
@@ -156,7 +156,7 @@
                                 </a>
                             </div>
                             <div class="col-md-4 col-6">
-                                <a href="https://www.instagram.com/prod/?utm_source=ig_embed&ig_mid=XK52cgABAAFiWILunXDAcsuon8cm" target="_blank">
+                                <a href="https://www.instagram.com/prod/?utm_source=ig_embed&ig_mid=XK52cgABAAFiWILunXDAcsuon8cm" rel="noreferrer" target="_blank">
                                 <div class="caja">
                                     <img src="images/s-paul-rodriguez.jpg" alt="Paul Rodriguez" class="img-fluid">
                                     <div class="overlay bg-rojo">
@@ -167,7 +167,7 @@
                             </div>
 
                             <div class="col-md-4 col-6">
-                                <a href="https://www.instagram.com/tonyhawk/?hl=es-la" target="_blank">
+                                <a href="https://www.instagram.com/tonyhawk/?hl=es-la" rel="noreferrer" target="_blank">
                                 <div class="caja">
                                     <img src="images/s-rodney-mullen.jpg" alt="Rodney Mullen" class="img-fluid">
                                     <div class="overlay bg-rojo">

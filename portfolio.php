@@ -4,7 +4,7 @@
     		<div class="row no-gutters">
     		    <!-- 1 -->
     			<div class="col-md-4 col-6 col-lg-3">
-                    <a href="https://www.behance.net/gallery/49299973/LOGOFOLIO" target="_blank">
+                    <a href="https://www.behance.net/gallery/49299973/LOGOFOLIO" rel="noreferrer" target="_blank">
     			    <div class="caja">
                         <img src="images/portfolio06.jpg" alt="Avatar" class="img-fluid">
                         <div class="overlay bg-verde">
@@ -14,7 +14,7 @@
                     </a>
     			</div>
     			<div class="col-md-4 col-6 col-lg-3">
-                    <a href="https://www.facebook.com/fonolandia/" target="_blank">
+                    <a href="https://www.facebook.com/fonolandia/" rel="noreferrer" target="_blank">
                     <div class="caja">
                         <img src="images/portfolio02.jpg" alt="Avatar" class="img-fluid">
                         <div class="overlay bg-rojo">
@@ -24,7 +24,7 @@
                     </a> 
     			</div>
                 <div class="col-md-4 col-6 col-lg-3">
-                    <a href="https://www.behance.net/gallery/73854405/Kanji" target="_blank">
+                    <a href="https://www.behance.net/gallery/73854405/Kanji" rel="noreferrer" target="_blank">
                     <div class="caja">
                         <img src="images/portfolio15.jpg" alt="Avatar" class="img-fluid">
                         <div class="overlay bg-agua">
@@ -35,7 +35,7 @@
                 </div>
     			
     			<div class="col-md-4 col-6 col-lg-3">
-                    <a href="http://cocinaonlinesolenardelli.com/" target="_blank">
+                    <a href="http://cocinaonlinesolenardelli.com/" rel="noreferrer" target="_blank">
                     <div class="caja">
                         <img src="images/portfolio04.jpg" alt="Avatar" class="img-fluid">
                         <div class="overlay bg-verde">
@@ -47,7 +47,7 @@
             </div>
             <div class="row no-gutters">
     			<div class="col-md-4 col-6 col-lg-3">
-                    <a href="http://pressitio.com/" target="_blank">
+                    <a href="http://pressitio.com/" rel="noreferrer" target="_blank">
     			    <div class="caja">
                         <img src="images/portfolio05.jpg" alt="Avatar" class="img-fluid">
                         <div class="overlay bg-rojo">
@@ -57,7 +57,7 @@
                     </a>
     			</div>
     			<div class="col-md-4 col-6 col-lg-3">
-                    <a href="https://www.instagram.com/osurrin_vestite_divertite/" target="_blank">
+                    <a href="https://www.instagram.com/osurrin_vestite_divertite/" rel="noreferrer" target="_blank">
                     <div class="caja">
                         <img src="images/portfolio03.jpg" alt="Avatar" class="img-fluid">
                         <div class="overlay bg-agua">
@@ -67,7 +67,7 @@
                     </a> 
     			</div>
     			<div class="col-md-4 col-6 col-lg-3">
-                    <a href="https://www.behance.net/gallery/2333354/Circle-of-Fifths" target="_blank">
+                    <a href="https://www.behance.net/gallery/2333354/Circle-of-Fifths" rel="noreferrer" target="_blank">
                     <div class="caja">
                         <img src="images/portfolio07.jpg" alt="Avatar" class="img-fluid">
                         <div class="overlay bg-verde">
@@ -77,7 +77,7 @@
                     </a>
     			</div>
     			<div class="col-md-4 col-6 col-lg-3">
-                    <a href="https://martinmele.tumblr.com/" target="_blank">
+                    <a href="https://martinmele.tumblr.com/" rel="noreferrer" target="_blank">
                     <div class="caja">
                         <img src="images/portfolio12.jpg" alt="Avatar" class="img-fluid">
                         <div class="overlay bg-rojo">
@@ -89,7 +89,7 @@
             </div>
             <div class="row no-gutters">
                 <div class="col-md-4 col-6 col-lg-3">
-                    <a href="https://www.behance.net/gallery/29344859/Desvan" target="_blank">
+                    <a href="https://www.behance.net/gallery/29344859/Desvan" rel="noreferrer" target="_blank">
     			    <div class="caja">
                         <img src="images/portfolio11.jpg" alt="Avatar" class="img-fluid">
                         <div class="overlay bg-agua">
@@ -99,7 +99,7 @@
                     </a>
     			</div>
     			<div class="col-md-4 col-6 col-lg-3">
-                    <a href="https://www.behance.net/gallery/1796116/Benzol" target="_blank">
+                    <a href="https://www.behance.net/gallery/1796116/Benzol" rel="noreferrer" target="_blank">
                     <div class="caja">
                         <img src="images/portfolio10.jpg" alt="Avatar" class="img-fluid">
                         <div class="overlay bg-verde">
@@ -109,7 +109,7 @@
                     </a>
     			</div>
     			<div class="col-md-4 col-6 col-lg-3">
-                    <a href="https://www.behance.net/gallery/49299973/LOGOFOLIO" target="_blank">
+                    <a href="https://www.behance.net/gallery/49299973/LOGOFOLIO" rel="noreferrer" target="_blank">
                     <div class="caja">
                         <img src="images/portfolio09.jpg" alt="Avatar" class="img-fluid">
                         <div class="overlay bg-rojo">
@@ -119,7 +119,7 @@
                     </a>
                 </div>
     			<div class="col-md-4 col-6 col-lg-3">
-                    <a href="https://www.instagram.com/magicphonebrc/" target="_blank">
+                    <a href="https://www.instagram.com/magicphonebrc/" rel="noreferrer" target="_blank">
                     <div class="caja">
                         <img src="images/portfolio14.jpg" alt="Avatar" class="img-fluid">
                         <div class="overlay bg-agua">

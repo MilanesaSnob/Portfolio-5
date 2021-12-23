@@ -5,17 +5,17 @@
             <div class="col-lg-6 pt-lg-5 pt-5 pb-lg-3 pb-3 social">
                 <ul class="list-inline text-lg-left text-center">
                     <li class="list-inline-item">
-                        <a class="verde" href="https://www.behance.net/martinmele" target="_blank" data-toggle="tooltip"
+                        <a class="verde" href="https://www.behance.net/martinmele" rel="noreferrer" target="_blank" data-toggle="tooltip"
                             data-placement="top" title="check out my portfolio" role="button"><i
                                 class="fab fa-behance fa-2x" aria-hidden="true"></i></a>
                     </li>
                     <li class="list-inline-item">
-                        <a class="rojo" href="https://github.com/MilanesaSnob" target="_blank" data-toggle="tooltip"
+                        <a class="rojo" href="https://github.com/MilanesaSnob" rel="noreferrer" target="_blank" data-toggle="tooltip"
                             data-placement="top" title="Follow me at" role="button"><i class="fab fa-github fa-2x"
                                 aria-hidden="true"></i></a>
                     </li>
                     <li class="list-inline-item">
-                        <a class="agua" href="http://ar.linkedin.com/pub/martin-mele/20/444/490" target="_blank"
+                        <a class="agua" href="http://ar.linkedin.com/pub/martin-mele/20/444/490" rel="noreferrer" target="_blank"
                             data-toggle="tooltip" data-placement="top" title="Check out my profile" role="button"><i
                                 class="fab fa-linkedin fa-2x" aria-hidden="true"></i></a>
                     </li>
@@ -39,11 +39,14 @@
     </div>
 -->
 
-<!-- SCRIPT CDN -->  
+<!-- SCRIPT CDN -->
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
+<!--
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-
+-->
 <!-- SCRIPT LOCAL -->
 <script>
     $(function () {
