@@ -1,5 +1,6 @@
    <!--CONTENT -->
    <!-- ABAOUT ME -->
+   <main>
    <section id="me">
        <div class="container">
            <div class="row no-gutters">
@@ -117,4 +118,5 @@
            </form>
        </div>
    </section>
+   </main>
    <!-- END CONTACT -->

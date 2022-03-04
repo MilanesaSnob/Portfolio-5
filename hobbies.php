@@ -7,35 +7,35 @@
                         <h2 class="b-agua">MUSIC</h2>
                         <h4 class="agua font-weight-bold">Playing with Kawai K4<br> & Korg TR</h4>
 
-                        <p class="mt-5"><i class="fa fa-bolt agua"></i>Desmaterializado <small>[Lokesea]</small></p>
+                        <p class="mt-5"><i class="fa fa-bolt agua" aria-hidden="true"></i>Desmaterializado <small>[Lokesea]</small></p>
                         <audio controls>
                             <source src="audio/desmaterializado.ogg" type="audio/ogg">
                             <source src="audio/desmaterializado.mp3" type="audio/mpeg">
                             Tu navegador apesta y no soporta audio tag.
                         </audio>
 
-                        <p class="mt-4"><i class="fa fa-bolt agua"></i>Dx2 Palestina <small>[solo project]</small></p>
+                        <p class="mt-4"><i class="fa fa-bolt agua" aria-hidden="true"></i>Dx2 Palestina <small>[solo project]</small></p>
                         <audio controls>
                             <source src="audio/dx2-palestina.ogg" type="audio/ogg">
                             <source src="audio/dx2-palestina.mp3" type="audio/mpeg">
                             Tu navegador apesta y no soporta audio tag.
                         </audio>
 
-                        <p class="mt-4"><i class="fa fa-bolt agua"></i>Zamba para olvidar <small>[con Ariel Robles]</small></p>
+                        <p class="mt-4"><i class="fa fa-bolt agua" aria-hidden="true"></i>Zamba para olvidar <small>[con Ariel Robles]</small></p>
                         <audio controls>
                             <source src="audio/zamba.ogg" type="audio/ogg">
                             <source src="audio/zamba.mp3" type="audio/mpeg">
                             Tu navegador apesta y no soporta audio tag.
                         </audio>
 
-                        <p class="mt-4"><i class="fa fa-bolt agua"></i>Elevate <small>[Lokesea]</small></p>
+                        <p class="mt-4"><i class="fa fa-bolt agua" aria-hidden="true"></i>Elevate <small>[Lokesea]</small></p>
                         <audio controls>
                             <source src="audio/elevate.ogg" type="audio/ogg">
                             <source src="audio/elevate.mp3" type="audio/mpeg">
                             Tu navegador apesta y no soporta audio tag.
                         </audio>
 
-                        <p class="mt-4"><i class="fa fa-bolt agua"></i>Moon Shrine <small>[solo project]</small></p>
+                        <p class="mt-4"><i class="fa fa-bolt agua" aria-hidden="true"></i>Moon Shrine <small>[solo project]</small></p>
                         <audio controls>
                             <source src="audio/moon-shrine.ogg" type="audio/ogg">
                             <source src="audio/moon-shrine.mp3" type="audio/mpeg">
@@ -49,23 +49,23 @@
                         <h2 class="b-verde">BOOKS</h2>
                         <h4 class="verde font-weight-bold">To be<br> or not To be</h4>
 
-                        <a class="mt-5" href="files/meditaciones.zip" role="button"><i class="fa fa-book verde"></i>Meditaciones - <small><span class="font-italic">Marco Aurelio.</span></small></a>
+                        <a class="mt-5" href="files/meditaciones.zip" role="button"><i class="fa fa-book verde" aria-hidden="true"></i>Meditaciones - <small><span class="font-italic">Marco Aurelio.</span></small></a>
 
-                        <a class="mt-1" href="files/antigona.zip"  role="button"><i class="fa fa-book verde"></i>Antígona - <small><span class="font-italic">Sófocles.</span></small></a>
+                        <a class="mt-1" href="files/antigona.zip"  role="button"><i class="fa fa-book verde" aria-hidden="true"></i>Antígona - <small><span class="font-italic">Sófocles.</span></small></a>
 
-                        <a class="mt-1" href="files/walden.zip" role="button"><i class="fa fa-book verde"></i>Walden - <small><span class="font-italic">H. D. Thoreau.</span></small></a>
+                        <a class="mt-1" href="files/walden.zip" role="button"><i class="fa fa-book verde" aria-hidden="true"></i>Walden - <small><span class="font-italic">H. D. Thoreau.</span></small></a>
 
-                        <a class="mt-1" href="files/el-quijote.zip" role="button"><i class="fa fa-book verde"></i>El Quijote - <small><span class="font-italic">Miguel Cervantes.</span></small></a>
+                        <a class="mt-1" href="files/el-quijote.zip" role="button"><i class="fa fa-book verde" aria-hidden="true"></i>El Quijote - <small><span class="font-italic">Miguel Cervantes.</span></small></a>
 
-                        <a class="mt-1" href="files/toda-la-carne-es-hierba.zip" role="button"><i class="fa fa-book verde"></i>Toda la carne es hierba - <small><span class="font-italic">Clifford D. Simak.</span></small></a>
+                        <a class="mt-1" href="files/toda-la-carne-es-hierba.zip" role="button"><i class="fa fa-book verde" aria-hidden="true"></i>Toda la carne es hierba - <small><span class="font-italic">Clifford D. Simak.</span></small></a>
 
-                        <a class="mt-1" href="files/musashi.zip" role="button"><i class="fa fa-book verde"></i>Musashi - <small><span class="font-italic">Eiji Yoshikawa.</span></small></a>
+                        <a class="mt-1" href="files/musashi.zip" role="button"><i class="fa fa-book verde" aria-hidden="true"></i>Musashi - <small><span class="font-italic">Eiji Yoshikawa.</span></small></a>
 
-                        <a class="mt-1" href="files/dune.zip" role="button"><i class="fa fa-book verde"></i>Dune - <small><span class="font-italic">Frank Herbert.</span></small></a>
+                        <a class="mt-1" href="files/dune.zip" role="button"><i class="fa fa-book verde" aria-hidden="true"></i>Dune - <small><span class="font-italic">Frank Herbert.</span></small></a>
 
-                        <a class="mt-1" href="files/misterio-cripta-embrujada.zip" role="button"><i class="fa fa-book verde"></i>El misterio de la cripta embrujada - <small><span class="font-italic">E. Mendoza.</span></small></a>
+                        <a class="mt-1" href="files/misterio-cripta-embrujada.zip" role="button"><i class="fa fa-book verde" aria-hidden="true"></i>El misterio de la cripta embrujada - <small><span class="font-italic">E. Mendoza.</span></small></a>
 
-                        <a class="mt-1" href="files/extraccion-piedra-locura.zip" role="button"><i class="fa fa-book verde"></i>Extraccion de la piedra de la locura - <small><span class="font-italic">Alejandra Pizarnik.</span></small></a>
+                        <a class="mt-1" href="files/extraccion-piedra-locura.zip" role="button"><i class="fa fa-book verde" aria-hidden="true"></i>Extraccion de la piedra de la locura - <small><span class="font-italic">Alejandra Pizarnik.</span></small></a>
 
                     </div>
                 </div>

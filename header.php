@@ -60,7 +60,7 @@
 
 		<nav class="navbar navbar-dark fixed-top bg-dark navbar-expand-md " id="mainNav" role="navigation"><!-- Agregar para que no collapse: navbar-expand-md-->
 			<div class="container ">
-				<a class="navbar-brand <?php echo $pagina == 'home' ? 'active' : ''; ?>" href="?p=home" ><img src="images/logo.svg" alt="Martin Mele"></a>
+				<a class="navbar-brand <?php echo $pagina == 'home' ? 'active' : ''; ?>" href="?p=home" ><img src="images/logo.svg" alt="Martin Mele Logo"></a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                    <span class="navbar-toggler-icon"><i class="fa-li fa fa-spinner fa-spin"></i></span>
                </button>
