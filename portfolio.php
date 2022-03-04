@@ -6,7 +6,7 @@
     			<div class="col-md-4 col-6 col-lg-3">
                     <a href="https://www.behance.net/gallery/49299973/LOGOFOLIO" rel="noreferrer" target="_blank">
     			    <div class="caja">
-                        <img src="images/portfolio06.jpg" alt="Avatar" class="img-fluid">
+                        <img src="images/portfolio06.jpg" alt="Project: Panacea Cocina de Autor" class="img-fluid">
                         <div class="overlay bg-verde">
                             <div class="text">Brand</div>
                         </div>
@@ -16,7 +16,7 @@
     			<div class="col-md-4 col-6 col-lg-3">
                     <a href="https://www.facebook.com/fonolandia/" rel="noreferrer" target="_blank">
                     <div class="caja">
-                        <img src="images/portfolio02.jpg" alt="Avatar" class="img-fluid">
+                        <img src="images/portfolio02.jpg" alt="Project: Fonolandia mobile accesories" class="img-fluid">
                         <div class="overlay bg-rojo">
                             <div class="text">Brand<br>Soc. Media</div>
                         </div>
@@ -26,7 +26,7 @@
                 <div class="col-md-4 col-6 col-lg-3">
                     <a href="https://www.behance.net/gallery/73854405/Kanji" rel="noreferrer" target="_blank">
                     <div class="caja">
-                        <img src="images/portfolio15.jpg" alt="Avatar" class="img-fluid">
+                        <img src="images/portfolio15.jpg" alt="Project: kanji app" class="img-fluid">
                         <div class="overlay bg-agua">
                             <div class="text">UI/UX</div>
                         </div>
@@ -37,7 +37,7 @@
     			<div class="col-md-4 col-6 col-lg-3">
                     <a href="http://cocinaonlinesolenardelli.com/" rel="noreferrer" target="_blank">
                     <div class="caja">
-                        <img src="images/portfolio04.jpg" alt="Avatar" class="img-fluid">
+                        <img src="images/portfolio04.jpg" alt="Project: Sole Nardelli e-learning" class="img-fluid">
                         <div class="overlay bg-verde">
                             <div class="text">UI/UX <br>Illustration</div>
                         </div>
@@ -49,7 +49,7 @@
     			<div class="col-md-4 col-6 col-lg-3">
                     <a href="http://pressitio.com/" rel="noreferrer" target="_blank">
     			    <div class="caja">
-                        <img src="images/portfolio05.jpg" alt="Avatar" class="img-fluid">
+                        <img src="images/portfolio05.jpg" alt="Project: Pressitio" class="img-fluid">
                         <div class="overlay bg-rojo">
                             <div class="text">Brand<br>UI/UX</div>
                         </div>
@@ -59,7 +59,7 @@
     			<div class="col-md-4 col-6 col-lg-3">
                     <a href="https://www.instagram.com/osurrin_vestite_divertite/" rel="noreferrer" target="_blank">
                     <div class="caja">
-                        <img src="images/portfolio03.jpg" alt="Avatar" class="img-fluid">
+                        <img src="images/portfolio03.jpg" alt="Project: Osurrin Clothes" class="img-fluid">
                         <div class="overlay bg-agua">
                             <div class="text">Brand<br>Soc. Media</div>
                         </div>
@@ -69,7 +69,7 @@
     			<div class="col-md-4 col-6 col-lg-3">
                     <a href="https://www.behance.net/gallery/2333354/Circle-of-Fifths" rel="noreferrer" target="_blank">
                     <div class="caja">
-                        <img src="images/portfolio07.jpg" alt="Avatar" class="img-fluid">
+                        <img src="images/portfolio07.jpg" alt="Project: Circle of fifths color/music theory" class="img-fluid">
                         <div class="overlay bg-verde">
                             <div class="text">Poster</div>
                         </div>
@@ -79,7 +79,7 @@
     			<div class="col-md-4 col-6 col-lg-3">
                     <a href="https://martinmele.tumblr.com/" rel="noreferrer" target="_blank">
                     <div class="caja">
-                        <img src="images/portfolio12.jpg" alt="Avatar" class="img-fluid">
+                        <img src="images/portfolio12.jpg" alt="Project: Personal Illustrations" class="img-fluid">
                         <div class="overlay bg-rojo">
                             <div class="text">Illustration</div>
                         </div>
@@ -91,7 +91,7 @@
                 <div class="col-md-4 col-6 col-lg-3">
                     <a href="https://www.behance.net/gallery/29344859/Desvan" rel="noreferrer" target="_blank">
     			    <div class="caja">
-                        <img src="images/portfolio11.jpg" alt="Avatar" class="img-fluid">
+                        <img src="images/portfolio11.jpg" alt="Project: Desván theater play" class="img-fluid">
                         <div class="overlay bg-agua">
                             <div class="text">Poster</div>
                         </div>
@@ -101,7 +101,7 @@
     			<div class="col-md-4 col-6 col-lg-3">
                     <a href="https://www.behance.net/gallery/1796116/Benzol" rel="noreferrer" target="_blank">
                     <div class="caja">
-                        <img src="images/portfolio10.jpg" alt="Avatar" class="img-fluid">
+                        <img src="images/portfolio10.jpg" alt="Project: Benzol chemistry" class="img-fluid">
                         <div class="overlay bg-verde">
                             <div class="text">Poster</div>
                         </div>
@@ -111,7 +111,7 @@
     			<div class="col-md-4 col-6 col-lg-3">
                     <a href="https://www.behance.net/gallery/49299973/LOGOFOLIO" rel="noreferrer" target="_blank">
                     <div class="caja">
-                        <img src="images/portfolio09.jpg" alt="Avatar" class="img-fluid">
+                        <img src="images/portfolio09.jpg" alt="Project: Kuntur raider Adventures" class="img-fluid">
                         <div class="overlay bg-rojo">
                             <div class="text">Brand</div>
                         </div>
@@ -121,7 +121,7 @@
     			<div class="col-md-4 col-6 col-lg-3">
                     <a href="https://www.instagram.com/magicphonebrc/" rel="noreferrer" target="_blank">
                     <div class="caja">
-                        <img src="images/portfolio14.jpg" alt="Avatar" class="img-fluid">
+                        <img src="images/portfolio14.jpg" alt="Project: Magic Phone accesories" class="img-fluid">
                         <div class="overlay bg-agua">
                             <div class="text">Brand<br>Soc. Media</div>
                         </div>
