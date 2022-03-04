@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!doctype html>
 <html lang="es">
 <head>
@@ -77,7 +76,7 @@
        </nav>
    </header>
    <!-- END HEAD AND NAV -->
-=======
+
 <!doctype html>
 <html lang="es">
 <head>
@@ -156,4 +155,4 @@
        </nav>
    </header>
    <!-- END HEAD AND NAV -->
->>>>>>> 30d5b55180faa2dedc1b4c6a0fd2150eaaef9327
+

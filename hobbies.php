@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
     <!-- CONTENT -->
     <section id="hobbit">
         <div class="container">
@@ -188,7 +188,6 @@
     </section>
     <!-- END CONTENT -->
 
-=======
     <!-- CONTENT -->
     <section id="hobbit">
         <div class="container">
@@ -378,4 +377,3 @@
     </section>
     <!-- END CONTENT -->
 
->>>>>>> 30d5b55180faa2dedc1b4c6a0fd2150eaaef9327

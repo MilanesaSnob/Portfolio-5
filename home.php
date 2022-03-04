@@ -1,7 +1,6 @@
-<<<<<<< HEAD
    <!--CONTENT -->
    <!-- ABAOUT ME -->
-   <main>
+
    <section id="me">
        <div class="container">
            <div class="row no-gutters">
@@ -119,11 +118,11 @@
            </form>
        </div>
    </section>
-   </main>
-=======
+
+
    <!--CONTENT -->
    <!-- ABAOUT ME -->
-   <main>
+
    <section id="me">
        <div class="container">
            <div class="row no-gutters">
@@ -241,6 +240,5 @@
            </form>
        </div>
    </section>
-   </main>
->>>>>>> 30d5b55180faa2dedc1b4c6a0fd2150eaaef9327
+ 
    <!-- END CONTACT -->
