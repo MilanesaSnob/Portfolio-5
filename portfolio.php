@@ -13,16 +13,7 @@
                     </div>
                     </a>
     			</div>
-    			<div class="col-md-4 col-6 col-lg-3">
-                    <a href="https://www.facebook.com/fonolandia/" rel="noreferrer" target="_blank">
-                    <div class="caja">
-                        <img src="images/portfolio02.jpg" alt="Project: Fonolandia mobile accesories" class="img-fluid">
-                        <div class="overlay bg-rojo">
-                            <div class="text">Brand<br>Soc. Media</div>
-                        </div>
-                    </div>
-                    </a> 
-    			</div>
+    			
                 <div class="col-md-4 col-6 col-lg-3">
                     <a href="https://www.behance.net/gallery/73854405/Kanji" rel="noreferrer" target="_blank">
                     <div class="caja">
@@ -33,7 +24,16 @@
                     </div>
                     </a>
                 </div>
-    			
+    			<div class="col-md-4 col-6 col-lg-3">
+                    <a href="https://www.behance.net/gallery/101568611/Administracion-de-flujos-de-trabajo" rel="noreferrer" target="_blank">
+                    <div class="caja">
+                        <img src="images/kpmg-thumb.png" alt="Project: KPMG" class="img-fluid">
+                        <div class="overlay bg-rojo">
+                            <div class="text">UI/UX</div>
+                        </div>
+                    </div>
+                    </a> 
+    			</div>
     			<div class="col-md-4 col-6 col-lg-3">
                     <a href="http://cocinaonlinesolenardelli.com/" rel="noreferrer" target="_blank">
                     <div class="caja">
@@ -118,18 +118,29 @@
                     </div>
                     </a>
                 </div>
-    			<div class="col-md-4 col-6 col-lg-3">
+                <div class="col-md-4 col-6 col-lg-3">
+                    <a href="https://www.facebook.com/fonolandia/" rel="noreferrer" target="_blank">
+                    <div class="caja">
+                        <img src="images/portfolio02.jpg" alt="Project: Fonolandia mobile accesories" class="img-fluid">
+                        <div class="overlay bg-agua">
+                            <div class="text">Brand<br>Soc. Media</div>
+                        </div>
+                    </div>
+                    </a> 
+    			</div>    			
+    		</div>
+            <div class="row no-gutters">
+                <div class="col-md-4 col-6 col-lg-3">
                     <a href="https://www.instagram.com/magicphonebrc/" rel="noreferrer" target="_blank">
                     <div class="caja">
                         <img src="images/portfolio14.jpg" alt="Project: Magic Phone accesories" class="img-fluid">
-                        <div class="overlay bg-agua">
+                        <div class="overlay bg-rojo">
                             <div class="text">Brand<br>Soc. Media</div>
                         </div>
                     </div>
                     </a>
     			</div>
-
-    		</div>
+            </div>
     	</div>
     </section>
 	<!-- END CONTENT -->
