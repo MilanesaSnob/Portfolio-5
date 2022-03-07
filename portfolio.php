@@ -77,11 +77,11 @@
                     </a>
     			</div>
     			<div class="col-md-4 col-6 col-lg-3">
-                    <a href="https://martinmele.tumblr.com/" rel="noreferrer" target="_blank">
+                    <a href="https://www.behance.net/gallery/101570433/Liza-Protocolos" rel="noreferrer" target="_blank">
                     <div class="caja">
-                        <img src="images/portfolio12.jpg" alt="Project: Personal Illustrations" class="img-fluid">
+                        <img src="images/liza-thumb.png" alt="Project: Liza Protocols" class="img-fluid">
                         <div class="overlay bg-rojo">
-                            <div class="text">Illustration</div>
+                            <div class="text">UI/UX</div>
                         </div>
                     </div>
                     </a>
@@ -108,16 +108,16 @@
                     </div>
                     </a>
     			</div>
-    			<div class="col-md-4 col-6 col-lg-3">
-                    <a href="https://www.behance.net/gallery/49299973/LOGOFOLIO" rel="noreferrer" target="_blank">
+                <div class="col-md-4 col-6 col-lg-3">
+                    <a href="https://martinmele.tumblr.com/" rel="noreferrer" target="_blank">
                     <div class="caja">
-                        <img src="images/portfolio09.jpg" alt="Project: Kuntur raider Adventures" class="img-fluid">
+                        <img src="images/portfolio12.jpg" alt="Project: Personal Illustrations" class="img-fluid">
                         <div class="overlay bg-rojo">
-                            <div class="text">Brand</div>
+                            <div class="text">Illustration</div>
                         </div>
                     </div>
                     </a>
-                </div>
+    			</div>
                 <div class="col-md-4 col-6 col-lg-3">
                     <a href="https://www.facebook.com/fonolandia/" rel="noreferrer" target="_blank">
                     <div class="caja">
@@ -140,6 +140,16 @@
                     </div>
                     </a>
     			</div>
+                <div class="col-md-4 col-6 col-lg-3">
+                    <a href="https://www.behance.net/gallery/49299973/LOGOFOLIO" rel="noreferrer" target="_blank">
+                    <div class="caja">
+                        <img src="images/portfolio09.jpg" alt="Project: Kuntur raider Adventures" class="img-fluid">
+                        <div class="overlay bg-agua">
+                            <div class="text">Brand</div>
+                        </div>
+                    </div>
+                    </a>
+                </div>
             </div>
     	</div>
     </section>
