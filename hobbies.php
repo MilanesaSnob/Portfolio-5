@@ -50,12 +50,6 @@
                             Your browser does not support audio tag.
                         </audio>
 
-                        <p class="mt-4"><i class="fa fa-bolt agua" aria-hidden="true"></i>Zamba para olvidar <small>[con Ariel Robles]</small></p>
-                        <audio controls>
-                            <source src="audio/zamba.ogg" type="audio/ogg">
-                            <source src="audio/zamba.mp3" type="audio/mpeg">
-                            Your browser does not support audio tag.
-                        </audio>
                     </div>
                 </div>
                 <div class="col-lg-4 col-12 col-md-6 p-3">
@@ -181,6 +175,17 @@
                             </div>
 
                             <div class="col-md-4 col-6">
+                                <a href="https://www.instagram.com/skateargentino/" rel="noreferrer" target="_blank">
+                                <div class="caja">
+                                    <img src="images/skate-arg.jpg" alt="Skate Argentino" class="img-fluid">
+                                    <div class="overlay bg-rojo">
+                                        <div class="text">Skate Argentino</div>
+                                    </div>    
+                                </div>
+                                </a>
+                            </div>
+
+                            <div class="col-md-4 col-6">
                                 <a href="https://www.instagram.com/tonyhawk/?hl=es-la" rel="noreferrer" target="_blank">
                                 <div class="caja">
                                     <img src="images/s-rodney-mullen.jpg" alt="Rodney Mullen" class="img-fluid">
@@ -191,7 +196,16 @@
                                 </a>
                             </div>
 
-
+                            <div class="col-md-4 col-6">
+                                <a href="https://www.instagram.com/santacruzskateboards/" rel="noreferrer" target="_blank">
+                                <div class="caja">
+                                    <img src="images/santa-cruz.jpg" alt="Santa Cruz" class="img-fluid">
+                                    <div class="overlay bg-rojo">
+                                        <div class="text">Santa Cruz</div>
+                                    </div>    
+                                </div>
+                                </a>
+                            </div>
                         </div><!-- End Row nested -->
                     </div>
                 </div>
