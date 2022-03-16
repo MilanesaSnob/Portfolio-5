@@ -99,8 +99,8 @@ header .navbar  li.nav-item:hover:nth-child(3) a i:before {content: "ACCESS";fon
 
 /*----- CONTENT --*/
 /*----- Perfil --*/
-#me {background: url("../images/f-verde2.svg");background-position: top center;background-color: rgba(0, 0, 8, 1);background-size: cover; -webkit-background-size: cover; -moz-background-size: cover;background-attachment: scroll;min-height: 600px;}
-#me .perfil {background-color: rgba(0, 0, 8, .9);}
+#me {background: url("../images/f-verde2.svg");background-position: top center;background-color: rgba(0, 0, 8, 1);background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; background-attachment: scroll;min-height: 600px;}
+#me .perfil {background-color: rgba(0, 0, 8, .8);}
 #me .card {background-color: transparent;border: none; border-radius: 0;}
 #me .card .card-img-top {border-radius: 50%;width: 80%;margin: 0 auto;}
 #me .card-text {font-size: 1.3rem; color: #d1d1d1; font-weight: 300;}

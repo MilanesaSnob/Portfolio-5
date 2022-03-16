@@ -15,24 +15,31 @@
                             Your browser does not support audio tag.
                         </audio>
 
-                        <p class="mt-4"><i class="fa fa-bolt agua" aria-hidden="true"></i>Dx2 Palestina <small>[solo project]</small></p>
-                        <audio controls>
-                            <source src="audio/dx2-palestina.ogg" type="audio/ogg">
-                            <source src="audio/dx2-palestina.mp3" type="audio/mpeg">
-                            Your browser does not support audio tag.
-                        </audio>
-
-                        <p class="mt-4"><i class="fa fa-bolt agua" aria-hidden="true"></i>Zamba para olvidar <small>[con Ariel Robles]</small></p>
-                        <audio controls>
-                            <source src="audio/zamba.ogg" type="audio/ogg">
-                            <source src="audio/zamba.mp3" type="audio/mpeg">
-                            Your browser does not support audio tag.
-                        </audio>
-
                         <p class="mt-4"><i class="fa fa-bolt agua" aria-hidden="true"></i>Elevate <small>[Lokesea]</small></p>
                         <audio controls>
                             <source src="audio/elevate.ogg" type="audio/ogg">
                             <source src="audio/elevate.mp3" type="audio/mpeg">
+                            Your browser does not support audio tag.
+                        </audio>
+
+                        <p class="mt-4"><i class="fa fa-bolt agua" aria-hidden="true"></i>Volatil <small>[solo project]</small></p>
+                        <audio controls>
+                            <source src="audio/volatil.ogg" type="audio/ogg">
+                            <source src="audio/volatil.mp3" type="audio/mpeg">
+                            Your browser does not support audio tag.
+                        </audio>
+
+                        <p class="mt-4"><i class="fa fa-bolt agua" aria-hidden="true"></i>Front <small>[solo project]</small></p>
+                        <audio controls>
+                            <source src="audio/front.ogg" type="audio/ogg">
+                            <source src="audio/front.mp3" type="audio/mpeg">
+                            Your browser does not support audio tag.
+                        </audio>
+
+                        <p class="mt-4"><i class="fa fa-bolt agua" aria-hidden="true"></i>Dx2 Palestina <small>[solo project]</small></p>
+                        <audio controls>
+                            <source src="audio/dx2-palestina.ogg" type="audio/ogg">
+                            <source src="audio/dx2-palestina.mp3" type="audio/mpeg">
                             Your browser does not support audio tag.
                         </audio>
 
@@ -43,6 +50,12 @@
                             Your browser does not support audio tag.
                         </audio>
 
+                        <p class="mt-4"><i class="fa fa-bolt agua" aria-hidden="true"></i>Zamba para olvidar <small>[con Ariel Robles]</small></p>
+                        <audio controls>
+                            <source src="audio/zamba.ogg" type="audio/ogg">
+                            <source src="audio/zamba.mp3" type="audio/mpeg">
+                            Your browser does not support audio tag.
+                        </audio>
                     </div>
                 </div>
                 <div class="col-lg-4 col-12 col-md-6 p-3">
@@ -73,7 +86,7 @@
                 <div class="col-lg-4 col-12 col-md-12 p-3">
                     <div class="h-100 mt-5">
                         <h2 class="b-rojo">SKATE</h2>
-                        <h4 class="rojo font-weight-bold">Top 10 <br>Skateboarders</h4>
+                        <h4 class="rojo font-weight-bold">Top <br>Skateboarders</h4>
                         <div class="row no-gutters mt-5">
 
                             <div class="col-md-4 col-6">
