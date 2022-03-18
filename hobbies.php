@@ -98,7 +98,7 @@
                                 <div class="caja">
                                     <img src="images/s-andrew-reynolds.jpg" alt="Andrew Reynolds" class="img-fluid">
                                     <div class="overlay bg-rojo">
-                                        <div class="text">Andrew Reynolds</div>
+                                        <div class="text">Andrew <br> Reynolds</div>
                                     </div>    
                                 </div>
                                 </a>

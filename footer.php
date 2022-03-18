@@ -24,7 +24,7 @@
 
 
             <div class="col-lg-6 pt-lg-5 pb-lg-3 pb-3 madeWith text-lg-right text-center">
-                <span class="agua">Made in</span><span class="verde">, Villa Crespo.</span>.
+                <span class="agua">Made in</span><span class="verde"> Villa Crespo.</span>.
             </div>
         </div>
     </div>
