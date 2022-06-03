@@ -6,45 +6,45 @@
                 <div class="col-lg-4 col-12 col-md-6 p-3">
                     <div class="h-100 mt-5 c-music">
                         <h2 class="b-agua">MUSIC</h2>
-                        <h4 class="agua font-weight-bold">Playing with Kawai K4<br> & Korg TR</h4>
+                        <h3 class="agua font-weight-bold">Playing with Kawai K4<br> & Korg TR</h3>
 
                         <p class="mt-5"><i class="fa fa-bolt agua" aria-hidden="true"></i>Desmaterializado <small>[Lokesea]</small></p>
-                        <audio controls>
+                        <audio controls="controls" arial-label="Audio Desmaterializado">
                             <source src="audio/desmaterializado.ogg" type="audio/ogg">
                             <source src="audio/desmaterializado.mp3" type="audio/mpeg">
                             Your browser does not support audio tag.
                         </audio>
 
                         <p class="mt-4"><i class="fa fa-bolt agua" aria-hidden="true"></i>Elevate <small>[Lokesea]</small></p>
-                        <audio controls>
+                        <audio controls="controls" arial-label="Audio Elévate">
                             <source src="audio/elevate.ogg" type="audio/ogg">
                             <source src="audio/elevate.mp3" type="audio/mpeg">
                             Your browser does not support audio tag.
                         </audio>
 
                         <p class="mt-4"><i class="fa fa-bolt agua" aria-hidden="true"></i>Volatil <small>[solo project]</small></p>
-                        <audio controls>
+                        <audio controls="controls" arial-label="Audio Volatil">
                             <source src="audio/volatil.ogg" type="audio/ogg">
                             <source src="audio/volatil.mp3" type="audio/mpeg">
                             Your browser does not support audio tag.
                         </audio>
 
                         <p class="mt-4"><i class="fa fa-bolt agua" aria-hidden="true"></i>Front <small>[solo project]</small></p>
-                        <audio controls>
+                        <audio controls="controls" arial-label="Audio Front">
                             <source src="audio/front.ogg" type="audio/ogg">
                             <source src="audio/front.mp3" type="audio/mpeg">
                             Your browser does not support audio tag.
                         </audio>
 
                         <p class="mt-4"><i class="fa fa-bolt agua" aria-hidden="true"></i>Dx2 Palestina <small>[solo project]</small></p>
-                        <audio controls>
+                        <audio controls="controls" arial-label="Audio Palestina">
                             <source src="audio/dx2-palestina.ogg" type="audio/ogg">
                             <source src="audio/dx2-palestina.mp3" type="audio/mpeg">
                             Your browser does not support audio tag.
                         </audio>
 
                         <p class="mt-4"><i class="fa fa-bolt agua" aria-hidden="true"></i>Moon Shrine <small>[solo project]</small></p>
-                        <audio controls>
+                        <audio controls="controls" arial-label="Audio moon shrine">
                             <source src="audio/moon-shrine.ogg" type="audio/ogg">
                             <source src="audio/moon-shrine.mp3" type="audio/mpeg">
                             Your browser does not support audio tag.
@@ -55,7 +55,7 @@
                 <div class="col-lg-4 col-12 col-md-6 p-3">
                     <div class="h-100 mt-5 c-books">
                         <h2 class="b-verde">BOOKS</h2>
-                        <h4 class="verde font-weight-bold">To be<br> or not To be</h4>
+                        <h3 class="verde font-weight-bold">To be<br> or not To be</h3>
 
                         <a class="mt-5" href="files/meditaciones.zip" role="button"><i class="fa fa-book verde" aria-hidden="true"></i>Meditaciones - <small><span class="font-italic">Marco Aurelio.</span></small></a>
 
@@ -80,7 +80,7 @@
                 <div class="col-lg-4 col-12 col-md-12 p-3">
                     <div class="h-100 mt-5">
                         <h2 class="b-rojo">SKATE</h2>
-                        <h4 class="rojo font-weight-bold">Top <br>Skateboarders</h4>
+                        <h3 class="rojo font-weight-bold">Top <br>Skateboarders</h3>
                         <div class="row no-gutters mt-5">
 
                             <div class="col-md-4 col-6">

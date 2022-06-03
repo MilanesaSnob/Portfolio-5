@@ -43,40 +43,40 @@
                    </ul>
                    <div>
                        <div class="progress">
-                           <div class="progress-bar progress-bar-striped progress-bar-animated verde" role="progressbar" style="width: 97%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">HTML-HTML5</div>
+                           <div class="progress-bar progress-bar-striped progress-bar-animated verde" role="progressbar" style="width: 97%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" aria-label="Expertise HTML 97%">HTML-HTML5</div>
                        </div>
                    </div>
 
                    <div>
                        <div class="progress">
-                           <div class="progress-bar progress-bar-striped progress-bar-animated verde" role="progressbar" style="width: 90%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">CSS3-SASS-SASSY</div>
+                           <div class="progress-bar progress-bar-striped progress-bar-animated verde" role="progressbar" style="width: 90%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" aria-label="Expertise CSS,SASS 90%">CSS3-SASS-SASSY</div>
                        </div>
                    </div>
 
                    <div>
                        <div class="progress">
-                           <div class="progress-bar progress-bar-striped progress-bar-animated agua" role="progressbar" style="width: 45%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">Angular 5+</div>
+                           <div class="progress-bar progress-bar-striped progress-bar-animated agua" role="progressbar" style="width: 45%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" aria-label="Expertise Angular 45%">Angular 5+</div>
                        </div>
                    </div>
                    
                    <div>
                        <div class="progress">
-                           <div class="progress-bar progress-bar-striped progress-bar-animated agua" role="progressbar" style="width: 35%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">JavaScript</div>
+                           <div class="progress-bar progress-bar-striped progress-bar-animated agua" role="progressbar" style="width: 35%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" aria-label="Expertise javascript 35%">JavaScript</div>
                        </div>
                    </div>
                    <div>
                        <div class="progress">
-                           <div class="progress-bar progress-bar-striped progress-bar-animated agua" role="progressbar" style="width: 26%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">Xamarin (.net)</div>
+                           <div class="progress-bar progress-bar-striped progress-bar-animated agua" role="progressbar" style="width: 26%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" aria-label="Expertise Xamarin 26%">Xamarin (.net)</div>
                        </div>
                    </div>
                    <div>
                        <div class="progress">
-                           <div class="progress-bar progress-bar-striped progress-bar-animated rojo" role="progressbar" style="width: 25%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">Php</div>
+                           <div class="progress-bar progress-bar-striped progress-bar-animated rojo" role="progressbar" style="width: 25%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" aria-label="Expertise php 25%">Php</div>
                        </div>
                    </div>
                    <div>
                        <div class="progress">
-                           <div class="progress-bar progress-bar-striped progress-bar-animated rojo" role="progressbar" style="width: 15%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">Python</div>
+                           <div class="progress-bar progress-bar-striped progress-bar-animated rojo" role="progressbar" style="width: 15%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" aria-label="Expertise HTML 15%">Python</div>
                        </div>
                    </div>
                </div>
@@ -93,17 +93,17 @@
            <form id="contacto" role="form" name="contacto" action="mail.php" method="POST">
                <div class="form-row">
                    <div class="col-12 col-lg-6 pb-3 pr-lg-5">
-                       <input type="text" class="form-control form-control-lg" placeholder="Name" id="name" name="name" value="<?php echo htmlspecialchars($_POST['name']); ?>">
+                       <input type="text" aria-label="Nombre" class="form-control form-control-lg" placeholder="Name" id="name" name="name" value="<?php echo htmlspecialchars($_POST['name']); ?>">
                        <?php echo "<p class='help-block text-danger'>$errName</p>"; ?>
                    </div>
                    <div class="col-12 col-lg-6 pb-3 pl-lg-5">
-                       <input type="email" class="form-control form-control-lg" placeholder="Email" id="email" name="email" value="<?php echo htmlspecialchars($_POST['email']); ?>">
+                       <input type="email" aria-label="email" class="form-control form-control-lg" placeholder="Email" id="email" name="email" value="<?php echo htmlspecialchars($_POST['email']); ?>">
                        <?php echo "<p class='help-block text-danger'>$errEmail</p>"; ?>
                    </div>
                </div>
                <div class="form-row">
                    <div class="col-12 pb-3">
-                       <textarea class="form-control form-control-lg" rows="6" placeholder="Message" id="message" name="message" value="<?php echo htmlspecialchars($_POST['message']); ?>"></textarea>
+                       <textarea class="form-control form-control-lg" rows="6" aria-label="mensaje" placeholder="Message" id="message" name="message" value="<?php echo htmlspecialchars($_POST['message']); ?>"></textarea>
                        <?php echo "<p class='help-block text-danger'>$errMessage</p>"; ?>
                    </div>
                </div>

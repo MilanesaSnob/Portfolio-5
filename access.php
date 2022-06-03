@@ -10,10 +10,10 @@
                         <h1 class="rojo">Access</h1>
                         <form>
                             <div class="form-group my-4">
-                                <input type="text" class="form-control" id="user" placeholder="User - Email">
+                                <input type="text" aria-label="User" class="form-control" id="user" placeholder="User - Email">
                             </div>
                             <div class="form-group mt-5">
-                                <input type="text" class="form-control" id="pass" placeholder="Pass">
+                                <input type="password" aria-label="password" class="form-control" id="pass" placeholder="Pass">
                             </div>
                             <div class="form-check mb-2 mr-sm-2">
                                 <label class="form-check-label">

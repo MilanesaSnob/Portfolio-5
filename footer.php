@@ -6,17 +6,17 @@
                 <ul class="list-inline text-lg-left text-center">
                     <li class="list-inline-item">
                         <a class="verde" href="https://www.behance.net/martinmele" rel="noreferrer" target="_blank" data-toggle="tooltip"
-                            data-placement="top" title="check out my portfolio" role="button" title="Behance"><i
+                            data-placement="top" title="check out my portfolio" role="button" aria-label="Behance" title="Behance"><i
                                 class="fab fa-behance fa-2x" aria-hidden="true"></i></a>
                     </li>
                     <li class="list-inline-item">
                         <a class="rojo" href="https://github.com/MilanesaSnob" rel="noreferrer" target="_blank" data-toggle="tooltip"
-                            data-placement="top" title="Follow me at" role="button" title="Github"><i class="fab fa-github fa-2x"
+                            data-placement="top" title="Follow me at" role="button" aria-label="Github" title="Github"><i class="fab fa-github fa-2x"
                                 aria-hidden="true"></i></a>
                     </li>
                     <li class="list-inline-item">
                         <a class="agua" href="http://ar.linkedin.com/pub/martin-mele/20/444/490" rel="noreferrer" target="_blank"
-                            data-toggle="tooltip" data-placement="top" title="Check out my profile" role="button" title="Linkedin"><i
+                            data-toggle="tooltip" data-placement="top" title="Check out my profile" role="button"  aria-label="Linkedin" title="Linkedin"><i
                                 class="fab fa-linkedin fa-2x" aria-hidden="true"></i></a>
                     </li>
                 </ul>
