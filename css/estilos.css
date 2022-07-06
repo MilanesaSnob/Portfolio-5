@@ -1,5 +1,5 @@
 /* Made by Martin Mele 16/08/17
- * v0.1
+ * v0.1.2
  * !Greetings humans, wellcome to earth!
  */
 :root {--brandColor: rgba(12, 29, 48, 1);}
@@ -83,18 +83,25 @@ header .navbar  li.nav-item {margin-left: 1rem; border: solid thin; padding: 10p
 header .navbar  li.nav-item:hover:nth-child(1) {background-color: rgba(32, 201, 151, .2);}/*\f1bb */
 header .navbar  li.nav-item:hover:nth-child(2) {background-color: rgba(140, 198, 63, .2);}/*f135*/
 header .navbar  li.nav-item:hover:nth-child(3) {background-color: rgba(220, 53, 69, .2);}/*\f0e9*/
+
 header .navbar  li.nav-item a.agua.active {background-color: rgba(32, 201, 151, .6);color:rgba(12, 29, 48, 1);}
 header .navbar  li.nav-item a.verde.active {background-color: rgba(140, 198, 63, .6);color:rgba(12, 29, 48, 1);}
 header .navbar  li.nav-item a.rojo.active {background-color: rgba(220, 53, 69, .6);color:rgba(12, 29, 48, 1);}
 
+header .navbar  li.nav-item:hover:nth-child(1) a i:before {content: "PORTFOLIO";font-family: FontAwesome,'Rubik', sans-serif;font-weight: 700; color:rgba(32, 201, 151, 1);}
+header .navbar  li.nav-item:hover:nth-child(2) a i:before {content: "HOBBIES";font-family: FontAwesome, 'Rubik', sans-serif;font-weight: 700; color: rgba(140, 198, 63, 1);}
+header .navbar  li.nav-item:hover:nth-child(3) a i:before {content: "ACCESS";font-family:FontAwesome, 'Rubik', sans-serif;font-weight: 700; color: rgba(220, 53, 69, 1);}
 
+/*ver el active que no anda*/
+
+/*a.nav-link .active {background-color: rgba(255, 255, 255, 0.6);color:rgba(12, 29, 48, 1);}*/
+
+/*
 header .navbar  li.nav-item a.agua.active i:before {content: "PORTFOLIO";font-family: FontAwesome,'Rubik', sans-serif;font-weight: 700; color:rgba(32, 201, 151, 1);}
 header .navbar  li.nav-item a.verde.active i:before {content: "HOBBIES";font-family: FontAwesome, 'Rubik', sans-serif;font-weight: 700; color: rgba(140, 198, 63, 1);}
 header .navbar  li.nav-item a.rojo.active i:before {content: "ACCESS";font-family:FontAwesome, 'Rubik', sans-serif;font-weight: 700; color: rgba(220, 53, 69, 1);}
+*/
 
-header .navbar  li.nav-item:hover:nth-child(1) a i:before {content: "PORTFOLIO";font-family: FontAwesome,'Rubik', sans-serif;font-weight: 700; color:rgba(32, 201, 151, 1);}/*32, 201, 151, 1*/
-header .navbar  li.nav-item:hover:nth-child(2) a i:before {content: "HOBBIES";font-family: FontAwesome, 'Rubik', sans-serif;font-weight: 700; color: rgba(140, 198, 63, 1);}/*140, 198, 63, 1*/
-header .navbar  li.nav-item:hover:nth-child(3) a i:before {content: "ACCESS";font-family:FontAwesome, 'Rubik', sans-serif;font-weight: 700; color: rgba(220, 53, 69, 1);}/*220, 53, 69, 1*/
 
 
 /*----- CONTENT --*/

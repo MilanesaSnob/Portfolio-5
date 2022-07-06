@@ -51,6 +51,19 @@
 <!-- MATERIAL CDN -->
 <link href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css" rel="stylesheet">
 <script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script>
+
+<script>
+// Add active class to the current button (highlight it)
+var header = document.getElementById("caramba");
+var btns = header.getElementsByClassName("nav-link");
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function() {
+  var current = document.getElementsByClassName("active");
+  current[0].className = current[0].className.replace(" active", "");
+  this.className += " active";
+  });
+}
+</script>
 </head>
 
 <body>
@@ -66,7 +79,7 @@
                </button>
 
                <div class="collapse navbar-collapse justify-content-end" id="navbarCollapse">
-                   <ul class="nav justify-content-end">
+                   <ul class="nav justify-content-end" id="caramba">
                        <li class="nav-item agua <?php echo $pagina == 'portfolio' ? 'active' : ''; ?>"><a class="nav-link agua" href="?p=portfolio" title="Home"><i class="fa fa-tree fa-2x" aria-hidden="true"></i></a></li>
                        <li class="nav-item verde <?php echo $pagina == 'hobbies' ? 'active' : ''; ?>"><a class="nav-link verde" href="?p=hobbies" title="Hobbies"><i class="fa fa-rocket fa-2x" aria-hidden="true"></i></a></li>
                        <li class="nav-item rojo <?php echo $pagina == 'access' ? 'active' : ''; ?>"><a class="nav-link rojo" href="?p=access" title="Access"><i class="fa fa-umbrella fa-2x" aria-hidden="true"></i></a></li>
