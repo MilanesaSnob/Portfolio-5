@@ -76,7 +76,7 @@
                    </div>
                    <div>
                        <div class="progress">
-                           <div class="progress-bar progress-bar-striped progress-bar-animated rojo" role="progressbar" style="width: 15%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" aria-label="Expertise HTML 15%">Python</div>
+                           <div class="progress-bar progress-bar-striped progress-bar-animated rojo" role="progressbar" style="width: 18%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" aria-label="Expertise HTML 15%">Python</div>
                        </div>
                    </div>
                </div>
