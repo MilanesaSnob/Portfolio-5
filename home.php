@@ -71,12 +71,12 @@
                    </div>
                    <div>
                        <div class="progress">
-                           <div class="progress-bar progress-bar-striped progress-bar-animated rojo" role="progressbar" style="width: 25%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" aria-label="Expertise php 25%">Php</div>
+                           <div class="progress-bar progress-bar-striped progress-bar-animated rojo" role="progressbar" style="width: 23%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" aria-label="Expertise php 25%">Php</div>
                        </div>
                    </div>
                    <div>
                        <div class="progress">
-                           <div class="progress-bar progress-bar-striped progress-bar-animated rojo" role="progressbar" style="width: 18%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" aria-label="Expertise HTML 15%">Python</div>
+                           <div class="progress-bar progress-bar-striped progress-bar-animated rojo" role="progressbar" style="width: 17%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" aria-label="Expertise HTML 15%">Python</div>
                        </div>
                    </div>
                </div>
